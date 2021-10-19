@@ -1,2 +1,2 @@
-# todo-react-mui
+# todo-react
 Created with CodeSandbox
